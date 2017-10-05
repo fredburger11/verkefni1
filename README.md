@@ -11,3 +11,4 @@ Unnið af:
 Kári Viðar Jónsson
 Loftur Einarsson
 Valur Páll Stefán Valsson
+Haukur hauks hauksson
